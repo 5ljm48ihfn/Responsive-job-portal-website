@@ -12,12 +12,14 @@ Installation
 Clone the repository: git clone https://github.com/5ljm48ihfn/Responsive-job-portal-website
 Navigate to the project directory: Responsive job portal website
 Install dependencies: npm install
-Start the development server: npm start
-
+Start the development server: npm star
 Technologies Used
 HTML
 CSS
 Javascript
+
+
+Website:http://127.0.0.1:5500/Index.html
 
 
 Contact
